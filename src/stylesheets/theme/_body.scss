@@ -1,4 +1,7 @@
 body {
   color: $main-text-color;
   background-color: $main-body-bgcolor;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }

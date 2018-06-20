@@ -1,5 +1,22 @@
 body {
-  color: #333;
-  background-color: #EFEFEF; }
+  color: #70FFEA;
+  background-color: #EFEFEF;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; }
+
+button {
+  background: transparent; }
+
+h1 {
+  position: absolute; }
+
+h1 {
+  text-align: center; }
+
+h1 {
+  top: 100px;
+  font-size: 48px;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */

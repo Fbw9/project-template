@@ -1,2 +1,11 @@
 @import "vars";
 @import "theme/index";
+@import "theme/_placeholder";
+
+h1 {
+  top: 100px;
+  font-size: 48px;
+  @extend %absolute;
+  @extend %center;
+  width: 100%;
+}
