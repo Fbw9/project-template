@@ -1,5 +1,11 @@
 body {
-  color: #333;
+  color: blue;
   background-color: #EFEFEF; }
+
+h1 {
+  color: blue; }
+
+button {
+  background: transparent; }
 
 /*# sourceMappingURL=main.css.map */
