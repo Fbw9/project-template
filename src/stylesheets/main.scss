@@ -1,11 +1,21 @@
-@import "vars";
+@import "viktor/vars";
 @import "theme/index";
-@import "theme/_placeholder";
+@import "theme/placeholder";
 
 h1 {
   top: 100px;
-  font-size: 48px;
+  font-size: 56px;
   @extend %absolute;
   @extend %center;
   width: 100%;
+  color: $white;
+}
+p {
+  top: 200px;
+  margin-left: 640px;
+  max-width: 640px;
+  @extend %absolute;
+  @extend %center;
+  width: 100%;
+  color: $main-text-color;
 }
