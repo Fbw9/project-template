@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,IAAK;EACH,KAAK,ECDW,IAAI;EDEpB,gBAAgB,ECDE,OAAO;;ACD3B,EAAG;EACD,KAAK,EAAE,IAAI;;ACDb,MAAO;EACL,UAAU,EAAE,WAAW",
-"sources": ["../../src/stylesheets/theme/_body.scss","../../src/stylesheets/_vars.scss","../../src/stylesheets/theme/_headers.scss","../../src/stylesheets/theme/_buttons.scss"],
-"names": [],
-"file": "main.css"
-}
